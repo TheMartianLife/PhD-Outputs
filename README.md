@@ -29,6 +29,7 @@ Papers, posters, talks and code produced as part of my PhD Candidature at the Un
 | [Python VS Space Junk](blob/main/Talks/pyconau.pdf) | PyCon Australia | 2021| [YouTube](https://youtu.be/jcgaU1mgS0A) |
 | Radio Astronomy for Programmers | LinuxConf Australia | 2021 | [YouTube](https://youtu.be/P4UiWbUVaaM) |
 | [Why You Should Care About Space Junk](blob/main/Talks/rst_showcase.pdf) | Royal Society of Tasmania PhD Showcase | 2022 | [YouTube](https://youtu.be/Mc59NCNu5lo) |
+| Space Junk & Orbital Debris: What is Going On? | Something Digital | 2022 |  |
 | [State of the Industry: Space Technology in Tasmania](blob/main/Talks/tasict.pdf) | TasICT Conference | 2022 | [YouTube](https://youtu.be/hff-DLl_ER0) |
 | [Tracking Space Junk](blob/main/Talks/scipub.pdf) | Science in the Pub | 2022 | |
 
