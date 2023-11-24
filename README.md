@@ -7,8 +7,8 @@ Papers, posters, talks and code produced as part of my PhD Candidature at the Un
 | Title | Co-authors | Journal/Conference    | Status/Year  |
 |:--    |:--         |:--                    |:--     |
 | [Developments in Doppler Tracking Software (SDtracker)](blob/main/Papers/sdtracker.pdf) | Guifré Molera Calvés | Proceedings of Science | 2023 |
+| [The VLBI Data Interchange Format (VDIF): 13 Years On](blob/main/Papers/vdif_compliance.pdf) | | Proceedings of the Australian Space Research Conference | 2023 |
 | Challenges in Space Situational Awareness | Andrew Hellicar | Proceedings of the Australian Space Research Conference | In review |
-| The VLBI Data Interchange Format (VDIF): 13 Years On | | Proceedings of the Australian Space Research Conference | In review |
 | Micro-Doppler Signatures of Space Debris Observed with Radio Telescopes | Guifré Molera Calvés, Shinji Horiuchi, Simon Ellingsen, Patrick Yates-Jones, Chris Phillips & Jamie Stevens | IEEE Transactions on Aerospace and Electronic Systems | In preparation |
 
 ## Posters
