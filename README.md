@@ -26,6 +26,7 @@ Papers, posters, talks and code produced as part of my PhD Candidature at the Un
 
 | Title | Event | Year  | Recording |
 |:--    |:--    |:--    |:--        |
+| Satellites, Citizen Science and Space | ABC Ockham's Razor | 2023 | [ABC Listen](https://www.abc.net.au/listen/programs/ockhamsrazor/satellites-citizen-science-space-junk/103222734) |
 | [Space Tracking, Right Here in Tasmania](blob/main/Talks/island_of_ideas.pdf) | Island of Ideas Lecture Series | 2023 | [YouTube](https://youtu.be/CYSgQCcVvWk) |
 | [Tracking Space Junk](blob/main/Talks/scipub.pdf) | Science in the Pub | 2022 | |
 | [State of the Industry: Space Technology in Tasmania](blob/main/Talks/tasict.pdf) | TasICT Conference | 2022 | [YouTube](https://youtu.be/hff-DLl_ER0) |
