@@ -2,6 +2,17 @@
 
 Papers, posters, talks and code produced as part of my PhD Candidature at the University of Tasmania and CSIRO Data61.
 
+## Topic
+
+Investigating the capabilities for astronomy-focused radio interferometers to track near-Earth objects and therefore aid in the prevention of debris-forming collisions in space.
+
+During my candidature, I have taken on several roles that extend this topic, including:
+
+* An internship with [Silentium Defence](https://www.silentiumdefence.com.au/our-solutions/maverick-s-series/), analysing the performance of their passive radar observatory as applied to space junk tracking.
+* Casual work as a telescope operator for the [AuScope array](https://auscope.phys.utas.edu.au), driving VLBI observations for astronomy and geodesy.
+* Contract work as a software developer for the [University of Tasmania](https://www.utas.edu.au/physics/space-tracking), developing real-time HPC software for satellite detection and Doppler-based location using single-dish inputs.
+* Volunteer contribution to Open Source software and standards in the field of VLBI, including a global study on the use of the VDIF data format.
+
 ## Papers
 
 | Title | Co-authors | Journal/Conference    | Status/Year  |
